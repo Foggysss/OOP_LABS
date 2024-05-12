@@ -1,0 +1,43 @@
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/bin/Debug/net8.0/asyncRequest
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/bin/Debug/net8.0/asyncRequest.deps.json
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/bin/Debug/net8.0/asyncRequest.runtimeconfig.json
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/bin/Debug/net8.0/asyncRequest.dll
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/bin/Debug/net8.0/asyncRequest.pdb
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.GeneratedMSBuildEditorConfig.editorconfig
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.AssemblyInfoInputs.cache
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.AssemblyInfo.cs
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.csproj.CoreCompileInputs.cache
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.dll
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/refint/asyncRequest.dll
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.pdb
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/asyncRequest.genruntimeconfig.cache
+/home/fivvif/unik/laba_oop2/asyncRequest/asyncRequest/obj/Debug/net8.0/ref/asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\bin\Debug\net8.0\asyncRequest.exe
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\bin\Debug\net8.0\asyncRequest.deps.json
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\bin\Debug\net8.0\asyncRequest.runtimeconfig.json
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\bin\Debug\net8.0\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\bin\Debug\net8.0\asyncRequest.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfoInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfo.cs
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.csproj.CoreCompileInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\refint\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\asyncRequest.genruntimeconfig.cache
+C:\Users\akryl\OneDrive\Рабочий стол\laba_oop2\asyncRequest\asyncRequest\obj\Debug\net8.0\ref\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.exe
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.deps.json
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.runtimeconfig.json
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfoInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfo.cs
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.csproj.CoreCompileInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.sourcelink.json
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\refint\asyncRequest.dll
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.pdb
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.genruntimeconfig.cache
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\OOP Lab 2\Async\asyncRequest\obj\Debug\net8.0\ref\asyncRequest.dll

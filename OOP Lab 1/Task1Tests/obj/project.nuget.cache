@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgT7U7Sp0d6IjttINT4hAcuW5OVQnRgSi2ZC1HXa5ivI7Jej423Echu5txm2iajPMgQa/rEiLeX0TRIlW2i6kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foggy\\Desktop\\OOP-LABS-main\\OOP Lab 1\\Task1Tests\\Task1Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foggy\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Foggy\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\Foggy\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\Foggy\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\Foggy\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

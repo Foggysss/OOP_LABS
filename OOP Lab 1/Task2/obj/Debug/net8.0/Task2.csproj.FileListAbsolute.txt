@@ -1,0 +1,15 @@
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\akryl\source\repos\OOP Lab 1\Task2\obj\Debug\net8.0\ref\Task2.dll
